@@ -8,8 +8,8 @@ The project is developed based on Linux OS (Ubuntu)
 ### New functionalities as compared to V1.0:
    1. Multiple clients connect to the server through multi-threads.
    2. Each client can register at the server and chat with other clients
-   3. Each client can switch bwtween Point2Point mode or group mode.
-   4. The server maintains username list and ssl tunnels via HashMap and can broadcast text to all clients any time.
+   3. Each client can switch between Point2Point mode or group mode.
+   4. The server maintains username list and ssl tunnels via HashMap and can broadcast messages to all clients any time.
 
 ### Workflow of the software:
 At the side of client：
