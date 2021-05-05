@@ -54,10 +54,10 @@ $ sudo apt-get install libssl-dev
    
    Take Termianl B with username "user1" for example:
    1) input command 'O' to start P2P mode
-   2) input "user2" (i.e., ) as chat with it.
+   2) input "user2" as the destination user
    3) send messages to user2
-   4) stop P2P mode anytime via command 'E'  
-   5) then, input command 'G' to start Group mode
+   4) stop P2P mode anytime by typing command 'E'  
+   5) then, type command 'G' to start Group mode
    6) stop the mode anytime via command 'E' if you wanna switch the modes anytime.
 
 5. At last, to release the project, executable files (i.e., ssl-server and ssl-user) can be removed to save package size:
