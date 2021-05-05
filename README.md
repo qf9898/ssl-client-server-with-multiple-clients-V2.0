@@ -25,7 +25,7 @@ At the side of server:
    1) Server can maintain and print the user list anytime via command 'List';
    2) When the server has some messages, it can send messages to all clients simultaneously. 
  
-Build:
+### Build:
 The code is compiled on Ubuntu OS.
 As the project utilizes openssl lib, the lib needs to be installed in advance.
 
