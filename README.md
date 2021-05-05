@@ -20,6 +20,7 @@ At the side of client：
    3. in Point2Point mode, the client needs to input the username of target client, and then sends message.
    4. input 'E' anytime to exit the current mode
    5. input 'G' to send message to client group.
+
 At the side of server:
    1) Server can maintain and print the user list anytime via command 'List';
    2) When the server has some messages, it can send messages to all clients simultaneously. 
